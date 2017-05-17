@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CampingTheEclipse.com",
-    "currentPage": "CONTACT US.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -156,7 +156,7 @@
               "src": "@PROJECT_PATH@/assets/images/solar-eclipse-icon-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -274,7 +274,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/solar-eclipse-icon-1-128x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
@@ -311,7 +311,7 @@
               "src": "@PROJECT_PATH@/assets/images/diamond-ring-128x103.jpg",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "#bottom",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
