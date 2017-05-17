@@ -21,7 +21,7 @@
         "isRtl": false
       }
     },
-    "favicon": "@PROJECT_PATH@/assets/images/solar-eclipse-icon-128x128.png",
+    "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
     "uniqCompNum": 7,
