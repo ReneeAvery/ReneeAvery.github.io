@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CampingTheEclipse.com",
-    "currentPage": "CONTACT US.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -46,7 +46,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28324e"
+              "color": "#000000"
             },
             ".mbr-section-lead": {
               "color": "#000000"
@@ -57,7 +57,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0003-2-2000x1600.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sun-set-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -167,7 +167,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Camping The Eclipse LLC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"CONTACT US.html\">RENT YOUR CAMPING SPACE NOW</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://squareup.com/store/camping-the-eclipse-llc\" target=\"_blank\">RENT YOUR CAMPING SPACE NOW</a></li>"
         },
         {
           "_tags": [
@@ -286,7 +286,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Camping The Eclipse LLC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"CONTACT US.html\">RENT YOUR CAMPING SPACE NOW</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://squareup.com/store/camping-the-eclipse-llc\" target=\"_blank\">RENT YOUR CAMPING SPACE NOW</a></li>"
         },
         {
           "_tags": [
