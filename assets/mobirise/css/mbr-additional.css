@@ -1,7 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -53,6 +55,12 @@ h6,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
+}
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
 }
 .btn-sm,
 .lead a,
@@ -414,10 +422,16 @@ h6,
   opacity: 0 !important;
 }
 #header1-1 .mbr-section-title {
-  color: #000000;
+  color: #ffffff;
 }
 #header1-1 .mbr-section-lead {
-  color: #000000;
+  color: #ffffff;
+  text-align: center;
+}
+#header1-1 .mbr-section-lead B {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  color: #ffffff;
 }
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
@@ -480,6 +494,13 @@ h6,
 #ext_menu-2 .link[aria-expanded="true"],
 #ext_menu-2 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#contacts1-6 STRONG {
+  color: #000000;
+}
+#contacts1-6 P {
+  color: #000000;
+  text-align: left;
 }
 
 #ext_menu-4 .hide-buttons .nav-btn {
@@ -549,4 +570,5 @@ h6,
 }
 #contacts1-6 P {
   color: #000000;
+  text-align: left;
 }

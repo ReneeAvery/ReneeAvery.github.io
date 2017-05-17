@@ -15,7 +15,7 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 7,
+    "uniqCompNum": 8,
     "versionPublish": "3.12.1",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-99300758-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
@@ -46,10 +46,17 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-section-lead": {
-              "color": "#000000"
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-lead B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "25px",
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-1",
@@ -72,8 +79,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "&lt;&lt;&lt; UNDER CONSTRUCTION CHECK BACK SOON &gt;&gt;&gt;",
-          "text": "Don't miss out on a once in a lifetime experience. Reserve your camping spot now.",
+          "title": "<br><br>Camping The Oregon Eclipse<br><br><br><br>",
+          "text": "<b>Come and join us for this momentous occasion, the 2017 Oregon Eclipse.   Our family owned cattle ranch is located within the area that will experience the total eclipse.&nbsp;<span style=\"font-style: normal;\">Camping spaces are available for RV and tent camping.</span></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
         },
         {
@@ -186,6 +193,53 @@
               "stateDetails": ""
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-6",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/diamond-ring-128x103.jpg",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "Camping Eclipse",
+              "title": "Eclipse Bend",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address:</strong><br><strong><br></strong><strong><br></strong>P.O. Box 34&nbsp;Powell Butte, OR 97753<br><br>",
+          "text2": "<strong>Contact:</strong><br>Renee@campingtheeclipse.com<br>541-610-8511",
+          "text3": ""
         }
       ]
     },
@@ -322,7 +376,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address:</strong><br>P.O. Box 34<br>Powell Butte, OR 97753<br><br>",
+          "text1": "<strong>Address:</strong><br><strong><br></strong><strong><br></strong>P.O. Box 34&nbsp;Powell Butte, OR 97753<br><br>",
           "text2": "<strong>Contact:</strong><br>Renee@campingtheeclipse.com<br>541-610-8511",
           "text3": "",
           "_styles": {
@@ -330,7 +384,8 @@
               "color": "#000000"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             }
           }
         }
