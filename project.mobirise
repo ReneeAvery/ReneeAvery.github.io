@@ -32,8 +32,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Eclipse Camping",
+        "meta_descr": "2017 Oregon Solar Eclipse Camping Site Madras Prineville Bend Central Oregon ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -155,9 +155,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/solar-eclipse-icon-1-128x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "Eclipse Camping Madras",
               "link": "index.html",
-              "title": "",
+              "title": "Eclipse Prineville",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -191,8 +191,8 @@
     },
     "CONTACT US.html": {
       "settings": {
-        "title": "",
-        "meta_descr": ""
+        "title": "Eclipse Contact Us",
+        "meta_descr": "Camping 2017 Camping Eclipse Sun"
       },
       "components": [
         {
@@ -312,8 +312,8 @@
               "width": 128,
               "active": true,
               "link": "index.html",
-              "alt": "",
-              "title": "",
+              "alt": "Camping Eclipse",
+              "title": "Eclipse Bend",
               "linkInNewWindow": false
             },
             "iconFont": {
