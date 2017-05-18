@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 8,
+    "uniqCompNum": 11,
     "versionPublish": "3.12.1",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-99300758-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
@@ -80,7 +80,7 @@
             "showButtons": false
           },
           "title": "<br><br>Camping The Oregon Eclipse<br><br><br><br>",
-          "text": "<b>Come and join us for this momentous occasion, the 2017 Oregon Eclipse.   Our family owned cattle ranch is located within the area that will experience the total eclipse.&nbsp;<span style=\"font-style: normal;\">Camping spaces are available for RV and tent camping.</span></b>",
+          "text": "<b>Come and join us for this momentous occasion, the 2017 Oregon Solar Eclipse.   Our family owned cattle ranch is located within the area that will experience the total eclipse.&nbsp;<span style=\"font-style: normal;\">Camping spaces are available for RV and tent camping.</span></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
         },
         {
@@ -174,7 +174,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Camping The Eclipse LLC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://squareup.com/store/camping-the-eclipse-llc\" target=\"_blank\">RENT YOUR CAMPING SPACE NOW</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Camp RULES\">CAMP RULES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://squareup.com/store/camping-the-eclipse-llc\" target=\"_blank\">RENT YOUR CAMPING SPACE NOW</a></li>"
         },
         {
           "_tags": [
@@ -340,7 +340,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Camping The Eclipse LLC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://squareup.com/store/camping-the-eclipse-llc\" target=\"_blank\">RENT YOUR CAMPING SPACE NOW</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Camp RULES\">CAMP RULES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://squareup.com/store/camping-the-eclipse-llc\" target=\"_blank\">RENT YOUR CAMPING SPACE NOW</a></li>"
         },
         {
           "_tags": [
@@ -388,6 +388,188 @@
               "text-align": "left"
             }
           }
+        }
+      ]
+    },
+    "Camp RULES": {
+      "settings": {
+        "title": "Website Builder Title",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tractor-2000x1125.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "CAMP the ECLIPSE RULES",
+          "text": "<p>Camping the Eclipse Rules</p><p><br></p><p>Camp sites are available noon Thursday August 17th to noon Tuesday August 22nd (checkout Wednesday by five pm for additional charge)</p><p>Check in times: noon to midnight Thursday, 10 am to midnight Friday, 10 am to 10 pm Saturday and Sunday. &nbsp;</p><p>Parents and guardians are responsible for the action and safety of their children.&nbsp;</p><p>Four adults (18 and over) per camp space with a maximum of six persons per camp site.</p><p>No campfires, open flame or fireworks are allowed.</p><p>Illegal or excessive use of alcohol or drugs is strictly prohibited.</p><p>No illegal drugs are allowed on site.</p><p>No weapons allowed on site.</p><p>Pets allowed on LEASH only.  Due to livestock there are no exceptions and this will be strictly enforced.  Excessive barking will not be allowed.  Please clean up after your pet.</p><p>There is no re-entry for RVs.</p><p>Guests must remain within designated campground.</p><p>Guests must arrive together to insure adjoining campsites.</p><p>Porta Potties available in campground. Please use personal RV facilities as much as possible&nbsp;</p><p>Passenger vehicles will be allowed to leave and return as traffic allows. &nbsp;</p><p>One passenger vehicle per camping space, extra vehicles at additional cost to be parked in separate area.&nbsp;</p><p>Alcohol allowed in campground area only. Anyone consuming alcohol must be 21 years of age or older</p><p>Quiet hours are from midnight to 8 am.  Please be considerate of your neighbors:  no generators, loud noises or bright lights during this time.&nbsp;</p><p>Camping will be on pastures and hay fields.  Please be kind to our animals and throw all trash away.  Be especially careful with metal, plastic and cigarette butts.</p><p>Garbage service provided for bagged and secured garbage, one 13 gallon bag per site per day.</p><p>Management reserves the right to take any action necessary for the safety of park property, occupants, guests or employees.  Failure to comply with Park Rules or management request may result in expulsion from the Park.</p><p>All sales are final, no refunds will be issued.</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-family": "'Source Sans Pro', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Source Sans Pro",
+              "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "css": "'Source Sans Pro', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/solar-eclipse-icon-1-128x128.png",
+              "height": 128,
+              "alt": "Eclipse Camping Madras",
+              "link": "index.html",
+              "title": "Eclipse Prineville",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Camping The Eclipse LLC</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Camp RULES\">CAMP RULES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT US.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://squareup.com/store/camping-the-eclipse-llc\" target=\"_blank\">RENT YOUR CAMPING SPACE NOW</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-9",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/diamond-ring-128x103.jpg",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "Camping Eclipse",
+              "title": "Eclipse Bend",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address:</strong><br><strong><br></strong><strong><br></strong>P.O. Box 34&nbsp;Powell Butte, OR 97753<br><br>",
+          "text2": "<strong>Contact:</strong><br>Renee@campingtheeclipse.com<br>541-610-8511",
+          "text3": ""
         }
       ]
     }
