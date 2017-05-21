@@ -577,6 +577,9 @@ h6,
 #msg-box8-a p {
   color: #fff;
 }
+#msg-box8-a .lead P {
+  text-align: left;
+}
 #ext_menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }
