@@ -103,7 +103,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/overall-map-2000x1031-800x412.png",
                 "image": "@PROJECT_PATH@/assets/images/overall-map-2000x1031.png",
                 "caption": "Overall map showing eclipse totality line and location of Camping the Eclipse LLC",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -133,7 +133,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/close-up-1-2000x1051-800x420.png",
                 "image": "@PROJECT_PATH@/assets/images/close-up-1-2000x1051.png",
                 "caption": "Close up map showing Camping the Eclipse LLC in Central Oregon.",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
