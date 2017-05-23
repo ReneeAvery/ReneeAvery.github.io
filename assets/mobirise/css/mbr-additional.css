@@ -503,6 +503,9 @@ h6,
   text-align: left;
 }
 
+#form1-e .form-control-label {
+  color: #232323;
+}
 #ext_menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
