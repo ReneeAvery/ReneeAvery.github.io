@@ -469,6 +469,10 @@ h6,
 #pricing-table2-f .mbr-section__container .mbr-section-title {
   color: #ffffff;
 }
+#social-buttons2-h .mbr-section-title,
+#social-buttons2-h .btn-social {
+  color: #232323;
+}
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }
