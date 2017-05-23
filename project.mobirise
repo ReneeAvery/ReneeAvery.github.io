@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CampingTheEclipse.com",
-    "currentPage": "CONTACT US.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 15,
+    "uniqCompNum": 16,
     "versionPublish": "3.12.1",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-99300758-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
@@ -84,6 +84,95 @@
           "title": "<br><br>Camping The Oregon Eclipse<br><br><br><br>",
           "text": "<b>Come and join us for this momentous occasion, the 2017 Oregon Solar Eclipse.   Our family owned cattle ranch is located within the area that will experience the total eclipse.&nbsp;<span style=\"font-style: normal;\">Camping spaces are available for RV and tent in the heart of Central Oregon.</span></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#8c8c8c"
+            },
+            ".mbr-plan-title": {
+              "font-size": "48px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-f",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "",
+            "thirdType": "hidden",
+            "fourthType": "hidden"
+          },
+          "title": "ECLIPSE CAMPING SITES",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "label1": "HOT!",
+          "title1": "5 Day RV Site",
+          "subtitle1": "Camping site located in path of totality.",
+          "currency1": "$",
+          "price1": "800",
+          "period1": "",
+          "description1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Thu. 08/17/17 to Tue. 08/22/17</span><br><li class=\"list-group-item\">Large 35x60 RV camp spot.</li><li class=\"list-group-item\">Family friendly environment.</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Camping Site</a>",
+          "label2": "HOT!",
+          "title2": "5 Day TENT Site",
+          "subtitle2": "Camping site located in path of totality.",
+          "currency2": "$",
+          "price2": "400",
+          "period2": "",
+          "description2": "",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Thu. 08/17/17 to Tue. 08/22/17</li><li class=\"list-group-item\">Large 30X35 tent spott.<br>Family friendly environment.</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Camping Site</a>",
+          "label3": "HOT!",
+          "title3": "PREMIUM",
+          "subtitle3": "Description",
+          "currency3": "$",
+          "price3": "0",
+          "period3": "/mo.",
+          "description3": "More details",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label4": "HOT!",
+          "title4": "ULTIMATE",
+          "subtitle4": "Description",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "/mo.",
+          "description4": "More details",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
         },
         {
           "_inherit": "gallery1",

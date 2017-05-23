@@ -433,6 +433,29 @@ h6,
   font-size: 25px;
   color: #ffffff;
 }
+#pricing-table2-f .mbr-plan-header,
+#pricing-table2-f .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-f ul,
+#pricing-table2-f .mbr-plan-title,
+#pricing-table2-f .mbr-price-value,
+#pricing-table2-f .mbr-price-figure,
+#pricing-table2-f .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-f .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-f .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#pricing-table2-f .mbr-plan-price-desc {
+  color: #8c8c8c;
+}
+#pricing-table2-f .mbr-plan-title {
+  font-size: 48px;
+}
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }
