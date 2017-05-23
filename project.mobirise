@@ -350,6 +350,9 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#000000"
             }
           }
         },
