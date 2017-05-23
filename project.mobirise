@@ -104,7 +104,20 @@
               "color": "#8c8c8c"
             },
             ".mbr-plan-title": {
-              "font-size": "48px"
+              "font-size": "48px",
+              "color": "#000000"
+            },
+            ".mbr-price-figure": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -115,11 +128,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/eclipse-2000x1124.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },

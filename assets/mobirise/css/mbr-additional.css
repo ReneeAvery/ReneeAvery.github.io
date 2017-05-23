@@ -455,6 +455,19 @@ h6,
 }
 #pricing-table2-f .mbr-plan-title {
   font-size: 48px;
+  color: #000000;
+}
+#pricing-table2-f .mbr-price-figure {
+  color: #000000;
+}
+#pricing-table2-f UL {
+  color: #000000;
+}
+#pricing-table2-f .mbr-section__container .mbr-section-subtitle {
+  color: #ffffff;
+}
+#pricing-table2-f .mbr-section__container .mbr-section-title {
+  color: #ffffff;
 }
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
