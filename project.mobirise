@@ -234,7 +234,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/overall-map-2000x1031-800x412.png",
                 "image": "@PROJECT_PATH@/assets/images/overall-map-2000x1031.png",
-                "caption": "Overall map showing Camping the Eclipse LLC in Central Oregon.",
+                "caption": "Overall map showing Camping the Eclipse LLC in Path of Eclipse Totality.",
                 "active": true
               }
             ],
