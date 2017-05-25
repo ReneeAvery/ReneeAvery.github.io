@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "3.12.1",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-99300758-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
@@ -166,7 +166,7 @@
           "price2": "400",
           "period2": "",
           "description2": "",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Thu. 08/17/17 to Tue. 08/22/17</li><li class=\"list-group-item\">Large 30X35 tent spott.<br>Family friendly environment.</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Thu. 08/17/17 to Tue. 08/22/17</li><li class=\"list-group-item\">Large 30X35 tent spot.<br>Family friendly environment.</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/item/tent-site-thu-to-tue-nights\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Camping Site</a>",
           "label3": "HOT!",
           "title3": "PREMIUM",
@@ -186,6 +186,43 @@
           "description4": "More details",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000",
+              "text-align": "right",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "21px"
+            },
+            "B": {
+              "font-size": "21px",
+              "text-align": "left"
+            },
+            "DIV": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "60px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Amenities And Extras",
+          "meta": "<br><b style=\"font-style: normal;\">All RV And Tent Spaces Located In The Path Of Totality</b><b style=\"font-style: normal;\"><br></b><br><b style=\"font-style: normal;\">Beautiful View Of The Cascade Mountains And Smith Rocks</b><b style=\"font-style: normal;\"><br></b><br><b style=\"font-style: normal;\">Unrestricted Views Of The Eastern Sky</b><br><br><b style=\"font-style: normal;\">Camping Spaces Accessed Easily From Hwy 126 Between Redmond and Prineville</b><br><br><b style=\"font-style: normal;\">Quiet Location</b><br><br><b style=\"font-style: normal;\">All Camping Spaces Are On Grass Covered Field</b><br><b style=\"font-style: normal;\"><br></b><b style=\"font-style: normal;\">Price Includes Thursday To Tuesday Camping</b><br><br><b style=\"font-style: normal;\">Option To Extend Stay To Wednesday 5PM For Additonal Fee</b><br><br><b style=\"font-style: normal;\">Large 35 X 60 RV Camp Sites</b><br><br><b style=\"font-style: normal;\">Large 30 X 35 Tent Sites</b><br><br><b style=\"font-style: normal;\">Walking Path Around And Through Campground</b><br><br><b style=\"font-style: normal;\">Centrally Located Gathering Area</b><br><b style=\"font-style: normal;\"><br></b><b style=\"font-style: normal;\">Family Friendly Environment</b><br><br><b style=\"font-style: normal;\">Ranch Cooked Food And BBQ Available For Purchase<br></b><br>"
         },
         {
           "_inherit": "gallery1",
@@ -429,6 +466,14 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "form1-e",
           "_params": {
             "labelsColor": "#232323",
@@ -474,15 +519,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            "SMALL": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_inherit": "menu",

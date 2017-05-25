@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -468,6 +469,26 @@ h6,
 }
 #pricing-table2-f .mbr-section__container .mbr-section-title {
   color: #ffffff;
+}
+#header3-i .mbr-section-title,
+#header3-i .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-i SMALL {
+  color: #000000;
+  text-align: right;
+  font-family: 'Roboto', sans-serif;
+  font-size: 21px;
+}
+#header3-i B {
+  font-size: 21px;
+  text-align: left;
+}
+#header3-i DIV {
+  text-align: center;
+}
+#header3-i H3 {
+  font-size: 60px;
 }
 #social-buttons2-h .mbr-section-title,
 #social-buttons2-h .btn-social {
