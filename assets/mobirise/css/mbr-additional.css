@@ -455,7 +455,7 @@ h6,
   color: #8c8c8c;
 }
 #pricing-table2-f .mbr-plan-title {
-  font-size: 48px;
+  font-size: 46px;
   color: #000000;
 }
 #pricing-table2-f .mbr-price-figure {
@@ -469,6 +469,9 @@ h6,
 }
 #pricing-table2-f .mbr-section__container .mbr-section-title {
   color: #ffffff;
+}
+#pricing-table2-f DIV {
+  color: #000000;
 }
 #header3-i .mbr-section-title,
 #header3-i .mbr-section-subtitle {

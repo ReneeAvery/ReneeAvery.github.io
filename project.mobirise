@@ -104,7 +104,7 @@
               "color": "#8c8c8c"
             },
             ".mbr-plan-title": {
-              "font-size": "48px",
+              "font-size": "46px",
               "color": "#000000"
             },
             ".mbr-price-figure": {
@@ -118,6 +118,9 @@
             },
             ".mbr-section__container .mbr-section-title": {
               "color": "#ffffff"
+            },
+            "DIV": {
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -145,14 +148,14 @@
             "firstType": "",
             "showButtons": true,
             "secondType": "",
-            "thirdType": "hidden",
-            "fourthType": "hidden"
+            "thirdType": "",
+            "fourthType": ""
           },
           "title": "ECLIPSE CAMPING SITES<br>",
           "subtitle": "These Are Hard To Find Multi Day Camping Sites.<br>",
           "label1": "HOT!",
           "title1": "5 Day RV Site",
-          "subtitle1": "Camping Site Located In Path Of Totality.",
+          "subtitle1": "Camping Site Located In Path Of Totality. Dry lot camping.",
           "currency1": "$",
           "price1": "800",
           "period1": "",
@@ -161,7 +164,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/item/rv-site-thursday-to-tuesday-nights\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Camping Site</a>",
           "label2": "HOT!",
           "title2": "5 Day TENT Site",
-          "subtitle2": "Camping Site Located In Path Of Totality.",
+          "subtitle2": "Camping Site Located In Path Of Totality. Dry lot camping.",
           "currency2": "$",
           "price2": "400",
           "period2": "",
@@ -169,23 +172,23 @@
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Thu. 08/17/17 to Tue. 08/22/17</li><li class=\"list-group-item\">Large 30X35 tent spot.<br>Family friendly environment.</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/item/tent-site-thu-to-tue-nights\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Camping Site</a>",
           "label3": "HOT!",
-          "title3": "PREMIUM",
-          "subtitle3": "Description",
+          "title3": "Extra Night",
+          "subtitle3": "<br>For RV Or Tent<br>",
           "currency3": "$",
-          "price3": "0",
-          "period3": "/mo.",
-          "description3": "More details",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "price3": "150",
+          "period3": "",
+          "description3": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><p><span style=\"font-size: 14px; line-height: 50px;\">Tue. 08/22/17 to Wed. 08/23/17</span></p><li class=\"list-group-item\">Family friendly environment.</li><br><p></p></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">Reserve Now</a>",
           "label4": "HOT!",
-          "title4": "ULTIMATE",
-          "subtitle4": "Description",
+          "title4": "Extra PassengerVehicle",
+          "subtitle4": "",
           "currency4": "$",
-          "price4": "0",
-          "period4": "/mo.",
-          "description4": "More details",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
+          "price4": "50",
+          "period4": "",
+          "description4": "",
+          "list4": "<p>Thu. 08/17/17 to Wed 08/23/17</p><p><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Requires RV Or Tent Site.&nbsp;</span><br></p><div><font color=\"#000000\"><span style=\"font-size: 14px; line-height: 50px;\"></span></font></div><p></p>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">Reserve Now</a>"
         },
         {
           "_styles": {
@@ -222,7 +225,7 @@
             "showMeta": true
           },
           "title": "Amenities And Extras",
-          "meta": "<br><b style=\"font-style: normal;\">All RV And Tent Spaces Located In The Path Of Totality</b><b style=\"font-style: normal;\"><br></b><br><b style=\"font-style: normal;\">Beautiful View Of The Cascade Mountains And Smith Rocks</b><b style=\"font-style: normal;\"><br></b><br><b style=\"font-style: normal;\">Unrestricted Views Of The Eastern Sky</b><br><br><b style=\"font-style: normal;\">Camping Spaces Accessed Easily From Hwy 126 Between Redmond and Prineville</b><br><br><b style=\"font-style: normal;\">Quiet Location</b><br><br><b style=\"font-style: normal;\">All Camping Spaces Are On Grass Covered Field</b><br><b style=\"font-style: normal;\"><br></b><b style=\"font-style: normal;\">Price Includes Thursday To Tuesday Camping</b><br><br><b style=\"font-style: normal;\">Option To Extend Stay To Wednesday 5PM For Additonal Fee</b><br><br><b style=\"font-style: normal;\">Large 35 X 60 RV Camp Sites</b><br><br><b style=\"font-style: normal;\">Large 30 X 35 Tent Sites</b><br><br><b style=\"font-style: normal;\">Walking Path Around And Through Campground</b><br><br><b style=\"font-style: normal;\">Centrally Located Gathering Area</b><br><b style=\"font-style: normal;\"><br></b><b style=\"font-style: normal;\">Family Friendly Environment</b><br><br><b style=\"font-style: normal;\">Ranch Cooked Food And BBQ Available For Purchase<br></b><br>"
+          "meta": "<br><b style=\"font-style: normal;\">All RV And Tent Spaces Located In The Path Of Totality</b><b style=\"font-style: normal;\"><br></b><br><b style=\"font-style: normal;\">Beautiful View Of The Cascade Mountains And Smith Rocks</b><b style=\"font-style: normal;\"><br></b><br><b style=\"font-style: normal;\">Unrestricted Views Of The Eastern Sky</b><br><br><b style=\"font-style: normal;\">Camping Spaces Accessed Easily From Hwy 126 Between Redmond and Prineville</b><br><br><b style=\"font-style: normal;\">Quiet Location</b><br><b style=\"font-style: normal;\"><br></b><b>No Water Hookup But Water Available On Property</b><br><br><b style=\"font-style: normal;\">All Camping Spaces Are On Grass Covered Field</b><br><b style=\"font-style: normal;\"><br></b><b style=\"font-style: normal;\">Price Includes Thursday To Tuesday Camping</b><br><br><b style=\"font-style: normal;\">Option To Extend Stay To Wednesday 5PM For Additonal Fee</b><br><br><b style=\"font-style: normal;\">Large 35 X 60 RV Camp Sites</b><br><br><b style=\"font-style: normal;\">Large 30 X 35 Tent Sites</b><br><br><b>Septic Tank Cleaning Available For Extra Fee</b><br><br><b style=\"font-style: normal;\">Walking Path Around And Through Campground</b><br><br><b style=\"font-style: normal;\">Centrally Located Gathering Area</b><br><b style=\"font-style: normal;\"><br></b><b style=\"font-style: normal;\">Family Friendly Environment</b><br><br><b style=\"font-style: normal;\">Ranch Cooked Food And BBQ Available For Purchase<br></b><br>"
         },
         {
           "_inherit": "gallery1",
