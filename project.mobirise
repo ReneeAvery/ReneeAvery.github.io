@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CampingTheEclipse.com",
-    "currentPage": "Camp RULES",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 20,
+    "uniqCompNum": 21,
     "versionPublish": "3.12.1",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-99300758-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
@@ -158,7 +158,7 @@
           "title1": "5 Day RV Site",
           "subtitle1": "Camping Site Located In Path Of Totality. Dry Lot Camping.",
           "currency1": "$",
-          "price1": "800",
+          "price1": "650",
           "period1": "",
           "description1": "",
           "list1": "<ul class=\"list-group list-group-flush\"><p><span style=\"font-size: 14px; line-height: 50px;\">Thu. 08/17/17 to Tue. 08/22/17</span></p><p><span style=\"font-size: 14px; line-height: 50px;\">Noon check in / Noon check out</span></p><p><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Large 35x60 RV camp spot.</span></p><p><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Family Friendly Environment.</span></p><p></p></ul>",
@@ -190,6 +190,119 @@
           "description4": "",
           "list4": "Req. RV or Tent Site",
           "button4": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/item/extra-passenger-vehicle-parking-permit-nights-1\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">Reserve Now</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-k",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bbq-camping-the-eclipse-near-bend-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "BBQ camping the eclipse near Bend",
+              "title": "BBQ camping the eclipse near Bend",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "BBQ (AWSOMENESS)",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Some of the best BBQ on the west coast will be avalibe just a short walk from you campsite made by a true raching family avalible for purchase.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bags-of-ice-for-eclispe-camping-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "bags of ice for eclipse camping redmond",
+              "title": "bags of ice for eclipse camping redmond",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "ICE !!!!",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "We are going to have mountians of baged ice avalibe on site for an extra fee. No need to leave the ranch for ice.&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/water-bottles-for-eclipse-camping-600x293.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "water bottles for eclipse camping bend",
+              "title": "water bottles for eclipse camping bend",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "BOTTLED WATER",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "We are going to have a mountain of bottled water avalible for a fee. Stay and relax.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
