@@ -238,6 +238,29 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "60px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#f7da64",
+            "showMeta": true
+          },
+          "title": "<br>Got Questions? We Have Answers.&nbsp;<br>Our Family Would Love To Talk With You!<br><br>Renee@campingtheeclipse.com<br><br><br><div>541-610-8511</div><div><br></div>",
+          "meta": ""
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -349,29 +372,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "font-size": "60px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-l",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#f7da64",
-            "showMeta": true
-          },
-          "title": "<br>Got Questions? We Have Answers.&nbsp;<br>Our Family Would Love To Talk With You!<br><br>Renee@campingtheeclipse.com<br><br><br><div>541-610-8511</div><div><br></div>",
-          "meta": ""
         },
         {
           "_styles": {
