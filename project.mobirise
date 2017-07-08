@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 22,
+    "uniqCompNum": 24,
     "versionPublish": "3.12.1",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-99300758-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
@@ -86,56 +86,26 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
         },
         {
-          "_inherit": "pricing-table1",
           "_styles": {
-            ".mbr-plan-header, .mbr-plan-body": {
-              "background-color": "#f4f4f4"
-            },
-            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
-              "color": "#28262b"
-            },
-            ".mbr-plan": {
-              "border-color": "#e8e8e8"
-            },
-            ".mbr-plan .list-group-item": {
-              "border-color": "#cfcfcf"
-            },
-            ".mbr-plan-price-desc": {
-              "color": "#8c8c8c"
-            },
-            ".mbr-plan-title": {
-              "font-size": "46px",
-              "color": "#000000"
-            },
-            ".mbr-price-figure": {
-              "color": "#000000"
-            },
-            "UL": {
-              "color": "#000000"
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
             },
             ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#ffffff"
-            },
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#ffffff"
-            },
-            "DIV": {
-              "color": "#000000",
-              "text-align": "center"
+              "color": "#a0a0a0"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "pricing-table2",
-          "_anchor": "pricing-table2-f",
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-m",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/eclipse-2000x1124.jpg",
-            "bgColor": "#a6a6a6",
+            "bgColor": "#303030",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -152,44 +122,120 @@
             "thirdType": "",
             "fourthType": ""
           },
-          "title": "ECLIPSE CAMPING SITES<br>",
-          "subtitle": "These Are Hard To Find Multi Day Camping Sites.<br>",
+          "title": "RV CAMPING SITES",
+          "subtitle": "These Are Hard To Find Multi Day Camping Sites.",
           "label1": "HOT!",
-          "title1": "5 Day RV Site",
-          "subtitle1": "Camping Site Located In Path Of Totality. Dry Lot Camping.",
+          "title1": "Five Day RV Camping Site<br>",
+          "subtitle1": "",
           "currency1": "$",
-          "price1": "650",
+          "price1": "500",
           "period1": "",
-          "description1": "",
-          "list1": "<ul class=\"list-group list-group-flush\"><p><span style=\"font-size: 14px; line-height: 50px;\">Thu. 08/17/17 to Tue. 08/22/17</span></p><p><span style=\"font-size: 14px; line-height: 50px;\">Noon check in / Noon check out</span></p><p><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Large 35x60 RV camp spot.</span></p><p><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Family Friendly Environment.</span></p><p></p></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/item/rv-site-thursday-to-tuesday-nights\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Camping Site</a>",
+          "description1": "Camping Site Located In Path Of Totality. Dry Lot Camping.",
+          "list1": "Thu. 08/17/17 to Tue. 08/22/17<div><br></div><div>Noon check in / Noon check out</div><div><br></div><div>Large 35x60 RV camp spot.</div>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Site</a>",
           "label2": "HOT!",
-          "title2": "5 Day TENT Site",
-          "subtitle2": "Camping Site Located In Path Of Totality. Dry Lot Camping.",
+          "title2": "Four Day RV Camping Site",
+          "subtitle2": "",
           "currency2": "$",
-          "price2": "400",
+          "price2": "450",
           "period2": "",
-          "description2": "",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Thu. 08/17/17 to Tue. 08/22/17</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Noon check in / Noon check out</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Large 30X35 tent spot.</span></li><li class=\"list-group-item\">Family Friendly Environment.</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/item/tent-site-thu-to-tue-nights\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Camping Site</a>",
+          "description2": "Camping Site Located In Path Of Totality. Dry Lot Camping.",
+          "list2": "Fri. 08/18/17 to Tue. 08/22/17<ul class=\"list-group list-group-flush\"></ul><div><br></div><div>Noon check in / Noon check out</div><div><br></div><div>Large 35x60 RV camp spot.</div>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">Reserve Your Site</a>",
           "label3": "HOT!",
-          "title3": "Extra Night",
-          "subtitle3": "<br>For RV Or Tent<br>",
+          "title3": "Three Day RV Camping Site",
+          "subtitle3": "",
           "currency3": "$",
-          "price3": "150",
+          "price3": "400",
           "period3": "",
-          "description3": "",
-          "list3": "<ul class=\"list-group list-group-flush\"><p><span style=\"font-size: 14px; line-height: 50px;\">Tue. 08/22/17 to Wed. 08/23/17</span></p><br><br><p></p></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/item/extra-night-rv-or-tent-tue-to-wed\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Now</a>",
+          "description3": "Camping Site Located In Path Of Totality. Dry Lot Camping.",
+          "list3": "Sat. 08/19/17 to Tue. 08/22/17<ul class=\"list-group list-group-flush\"></ul><div><br></div><div>Noon check in / Noon check out</div><div><br></div><div>Large 35x60 RV camp spot.</div>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">Reserve Your Site</a>",
           "label4": "HOT!",
-          "title4": "Extra PassengerVehicle",
+          "title4": "Two Day RV Camping Site",
           "subtitle4": "",
           "currency4": "$",
-          "price4": "50",
+          "price4": "300",
           "period4": "",
-          "description4": "",
-          "list4": "Req. RV or Tent Site",
-          "button4": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/item/extra-passenger-vehicle-parking-permit-nights-1\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">Reserve Now</a>"
+          "description4": "Camping Site Located In Path Of Totality. Dry Lot Camping.",
+          "list4": "Sun. 08/20/17 to Tue. 08/22/17<ul class=\"list-group list-group-flush\"></ul><div><br></div><div>Noon check in / Noon check out</div><div><br></div><div>Large 35x60 RV camp spot.</div>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">Reserve Your Site</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": "hidden"
+          },
+          "title": "Tent Camping",
+          "subtitle": "",
+          "label1": "HOT!",
+          "title1": "Five Day TENT Site<br><br>",
+          "subtitle1": "",
+          "currency1": "$",
+          "price1": "300",
+          "period1": "",
+          "description1": "Camping Site Located In Path Of Totality. Dry Lot Camping.",
+          "list1": "<p>Thu. 08/17/17 to Tue. 08/22/17</p><p></p><ul class=\"list-group list-group-flush\"></ul><div>Noon check in / Noon check out</div><div><br></div><div>Large 30X35 tent spot.</div><p></p>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Site</a>",
+          "label2": "HOT!",
+          "title2": "Four Day TENT Site<br><br>",
+          "subtitle2": "",
+          "currency2": "$",
+          "price2": "275",
+          "period2": "",
+          "description2": "Camping Site Located In Path Of Totality. Dry Lot Camping.",
+          "list2": "<p>Fri. 08/18/17 to Tue. 08/22/17</p><p></p><ul class=\"list-group list-group-flush\"></ul><div>Noon check in / Noon check out</div><div><br></div><div>Large 30X35 tent spot.</div><p></p>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Site</a>",
+          "label3": "HOT!",
+          "title3": "Three Day TENT Site",
+          "subtitle3": "Arrive on Saturday, Sunday or Monday",
+          "currency3": "$",
+          "price3": "250",
+          "period3": "",
+          "description3": "Camping Site Located In Path Of Totality. Dry Lot Camping.",
+          "list3": "<p>Sat. 08/19/17 to Tue. 08/22/17</p><p></p><ul class=\"list-group list-group-flush\"></ul><div>Noon check in / Noon check out</div><div><br></div><div>Large 30X35 tent spot.</div><p></p>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Site</a>",
+          "label4": "HOT!",
+          "title4": "ULTIMATE",
+          "subtitle4": "Description",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "/mo.",
+          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
         },
         {
           "_tags": [
