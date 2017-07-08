@@ -141,7 +141,7 @@
           "period2": "",
           "description2": "Camping Site Located In Path Of Totality. Dry Lot Camping.",
           "list2": "Fri. 08/18/17 to Tue. 08/22/17<ul class=\"list-group list-group-flush\"></ul><div><br></div><div>Noon check in / Noon check out</div><div><br></div><div>Large 35x60 RV camp spot.</div>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">Reserve Your Site</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Site</a>",
           "label3": "HOT!",
           "title3": "Three Day RV Camping Site",
           "subtitle3": "",
@@ -150,7 +150,7 @@
           "period3": "",
           "description3": "Camping Site Located In Path Of Totality. Dry Lot Camping.",
           "list3": "Sat. 08/19/17 to Tue. 08/22/17<ul class=\"list-group list-group-flush\"></ul><div><br></div><div>Noon check in / Noon check out</div><div><br></div><div>Large 35x60 RV camp spot.</div>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">Reserve Your Site</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Site</a>",
           "label4": "HOT!",
           "title4": "Two Day RV Camping Site",
           "subtitle4": "",
@@ -159,7 +159,7 @@
           "period4": "",
           "description4": "Camping Site Located In Path Of Totality. Dry Lot Camping.",
           "list4": "Sun. 08/20/17 to Tue. 08/22/17<ul class=\"list-group list-group-flush\"></ul><div><br></div><div>Noon check in / Noon check out</div><div><br></div><div>Large 35x60 RV camp spot.</div>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">Reserve Your Site</a>"
+          "button4": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Site</a>"
         },
         {
           "_styles": {
