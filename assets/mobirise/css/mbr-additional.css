@@ -446,6 +446,9 @@ h6,
 #pricing-table1-n .mbr-section__container .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#pricing-table1-n .mbr-price-value {
+  font-size: 60px;
+}
 #header3-l .mbr-section-title,
 #header3-l .mbr-section-subtitle {
   text-align: center;
@@ -537,7 +540,7 @@ h6,
 }
 #ext_menu-2 .link[aria-expanded="true"],
 #ext_menu-2 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 #contacts1-6 STRONG {
   color: #000000;

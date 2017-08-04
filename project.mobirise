@@ -168,6 +168,9 @@
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#a0a0a0"
+            },
+            ".mbr-price-value": {
+              "font-size": "60px"
             }
           },
           "_tags": [
@@ -196,7 +199,7 @@
             "showButtons": true,
             "secondType": "",
             "thirdType": "",
-            "fourthType": "hidden"
+            "fourthType": ""
           },
           "title": "Tent Camping",
           "subtitle": "",
@@ -228,14 +231,14 @@
           "list3": "<p>Sat. 08/19/17 to Tue. 08/22/17</p><p></p><ul class=\"list-group list-group-flush\"></ul><div>Noon check in / Noon check out</div><div><br></div><div>Large 30X35 tent spot.</div><p></p>",
           "button3": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Site</a>",
           "label4": "HOT!",
-          "title4": "ULTIMATE",
-          "subtitle4": "Description",
+          "title4": "Two Day Tent Site",
+          "subtitle4": "Arrive on Sunday or Monday",
           "currency4": "$",
-          "price4": "0",
-          "period4": "/mo.",
-          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+          "price4": "225",
+          "period4": "",
+          "description4": "Camping Site Located In Path Of Totality. Dry Lot Camping",
+          "list4": "Sun. 08/20/17 to Tue. 08/22/17<ul class=\"list-group list-group-flush\"></ul><div><br></div><div>Noon check in / Noon check out</div><div><br></div><div>Large 30X35 tent spot.</div>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://squareup.com/store/camping-the-eclipse-llc/\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Reserve Your Site</a>"
         },
         {
           "_styles": {
@@ -551,7 +554,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
